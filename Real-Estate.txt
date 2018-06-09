@@ -94,8 +94,8 @@
           <input id="show-listings" type="button" value="Show Listings">
           <input id="hide-listings" type="button" value="Hide Listings">
           <hr>
-          <span class="text"> Draw a shape to search for a house!</span>
-          <input id="toggle-drawing"  type="button" value="Drawing Tool">
+          <span class="text"> Draw a shape to search within it for homes!</span>
+          <input id="toggle-drawing"  type="button" value="Drawing Tools">
         </div>
         <hr>
         <div>
@@ -124,7 +124,7 @@
         <hr>
         <div>
           <span class="text">Search for nearby places</span>
-          <input id="places-search" type="text" placeholder="Ex: Pizza delivery in KC">
+          <input id="places-search" type="text" placeholder="Ex: Pizza delivery in NYC">
           <input id="go-places" type="button" value="Go">
         </div>
       </div>
